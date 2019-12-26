@@ -7,6 +7,7 @@ const ExpenseDashboardPage = () => (
     <div>
         <ExpensesSummary />
         <ExpenseListFilters />
+        
         <ExpenseList />
     </div>
 );
